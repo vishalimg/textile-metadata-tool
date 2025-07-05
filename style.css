@@ -1,0 +1,8 @@
+
+body { font-family: Arial, sans-serif; padding: 20px; background: #f9f9f9; }
+h1 { text-align: center; }
+.container { display: flex; gap: 20px; margin-top: 20px; flex-wrap: wrap; }
+.left, .right { flex: 1 1 300px; }
+img#preview { max-width: 100%; margin-top: 10px; border: 1px solid #ccc; }
+button { margin-left: 10px; }
+span { display: inline-block; margin-top: 5px; }
